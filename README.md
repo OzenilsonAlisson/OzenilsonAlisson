@@ -3,7 +3,7 @@
 💻 Estudante de Engenharia de Computação na UEFS 
 
 **Áreas de interesse:** Desenvolvimento FullStack e Machine Learning.  
-**Estudando atualmente:** Machine Learning e Desenvolvimento Front-End.
+**Estudando atualmente:** Machine Learning.
 
 <div> 
     <!--a href="https://instagram.com/ozenilson_alisson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a-->
