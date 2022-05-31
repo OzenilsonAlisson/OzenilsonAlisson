@@ -18,7 +18,7 @@
 </div>
 
 <div  align="center"> 
-    
+  
   ## Tecnologias 
   <div>
     <img align="center" alt="oz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
